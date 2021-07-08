@@ -1,16 +1,24 @@
 {
 	"folders": [
 		{
+			"name": "prsscilla",
 			"path": "."
 		},
 		{
+			"name": "images",
+			"path": "C:\\Users\\silas\\Desktop\\gallery\\dist\\images"
+		},
+		{
+			"name": "animate",
 			"path": "D:\\website-master\\lib\\animate"
 		},
 		{
+			"name": "wow",
 			"path": "d:\\website-master\\lib\\wow"
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "prsscilla"
+		"liveServer.settings.multiRootWorkspaceName": "prsscilla",
+		"liveServer.settings.port": 5501
 	}
 }
