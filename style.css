@@ -1379,3 +1379,6 @@ a:hover, a:focus{
 @media only screen and (max-width: 480px){
 	.testimonial{ padding: 100px 30px 30px; }
 }
+html {
+	scroll-behavior: smooth;
+  }
